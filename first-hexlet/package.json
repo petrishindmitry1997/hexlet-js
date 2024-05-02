@@ -10,6 +10,7 @@
   "author": "petrishindmitry1997",
   "license": "ISC",
   "dependencies": {
+    "commander": "^12.0.0",
     "jest": "^29.7.0",
     "lodash": "^4.17.21"
   },
